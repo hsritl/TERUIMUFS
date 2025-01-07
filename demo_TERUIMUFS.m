@@ -12,7 +12,7 @@ beta=1;
 tau=100;
 pp=1;
 
-% If the dataset is complete, this line can be used to construct unbalance incomplete dataset
+% If the dataset is complete, this line can be used to construct unbalanced incomplete dataset
 %[X,missing_num,X_missing,zero_indices,one_indices]=construct_UIMdata(Y,20); % Y{view_idx}:n*dv
 
 % The construction of indicator matrices for missing sample
